@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cb0f4b4-6d50-47d4-ba83-a29905519c37" name="Default Changelist" comment="" />
+    <list default="true" id="9cb0f4b4-6d50-47d4-ba83-a29905519c37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/bootstrap-4.0.0-dist/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/font/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/font/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/font/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ar-AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-bg-BG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ca-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-cs-CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-da-DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-el-GR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-es-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-es-EU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-fa-IR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-fi-FI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-fr-FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-gl-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-he-IL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-hr-HR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-hu-HU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-id-ID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-it-IT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ja-JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ko-KR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-lt-LT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-lt-LV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-mn-MN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-nb-NO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-nl-NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-pl-PL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-pt-PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ro-RO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ru-RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-sk-SK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-sl-SI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-sr-RS-Latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-sr-RS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-sv-SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-ta-IN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-th-TH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-tr-TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-uk-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-vi-VN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/lang/summernote-zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/plugin/databasic/summernote-ext-databasic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/plugin/databasic/summernote-ext-databasic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/plugin/hello/summernote-ext-hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/plugin/specialchars/summernote-ext-specialchars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote-bs4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote-bs4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote-bs4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote-lite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blankgd/dist/summernote.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blankgd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blankgd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,44 +111,50 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1817030500">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="jpg" value="8" />
+          <entry key="js" value="1" />
+          <entry key="png" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="13" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="456" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="456" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blankgd/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="21" selection-end-line="46" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blankgd/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blankgd/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1215" />
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blankgd/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blankgd/util/common.js">
+        <entry file="file://$PROJECT_DIR$/blankgd/admin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="96">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +170,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -108,6 +180,8 @@
         <option value="$PROJECT_DIR$/blankgd/util/common.js" />
         <option value="$PROJECT_DIR$/blankgd/login.html" />
         <option value="$PROJECT_DIR$/blankgd/register.html" />
+        <option value="$PROJECT_DIR$/blankgd/admin.htnk.html" />
+        <option value="$PROJECT_DIR$/blankgd/admin.html" />
       </list>
     </option>
   </component>
@@ -118,9 +192,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -128,6 +203,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,38 +220,49 @@
               <item name="blankgd" type="b2602c69:ProjectViewProjectNode" />
               <item name="blankgd" type="462c0819:PsiDirectoryNode" />
               <item name="blankgd" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-4.0.0-dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blankgd" type="b2602c69:ProjectViewProjectNode" />
               <item name="blankgd" type="462c0819:PsiDirectoryNode" />
               <item name="blankgd" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blankgd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="blankgd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="popper" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539858371013" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539943430698" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEAproject\blankgd\blankgd\images" />
-      <recent name="E:\IDEAproject\blankgd\blankgd" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IDEAproject\blankgd\blankgd\bootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\blankgd\blankgd\bootstrap-4.0.0-dist\js" />
+      <recent name="E:\workspace\blankgd\blankgd\js" />
+      <recent name="E:\workspace\blankgd\blankgd" />
+      <recent name="E:\IDEAproject\blankgd\blankgd\images" />
+      <recent name="E:\IDEAproject\blankgd\blankgd" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -202,16 +289,18 @@
       <updated>1539837465452</updated>
       <workItem from="1539837467042" duration="10573000" />
       <workItem from="1539911547169" duration="511000" />
+      <workItem from="1539938632205" duration="4751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11084000" />
+    <option name="totallyTimeSpent" value="15835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,18 +336,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blankgd/js/jquery.easyfader.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/js/jquery-2.1.1.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/css/info.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/css/share.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/css/m.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -309,19 +386,10 @@
     <entry file="file://$PROJECT_DIR$/blankgd/images/t03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/images/newsbg04.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/images/newsbg03.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/images/mb08.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/images/mb04.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/images/mb01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/images/banner03.jpg">
@@ -337,12 +405,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/images/logobg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/images/mb02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/images/mb03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/images/date.png">
@@ -363,9 +425,6 @@
     <entry file="file://$PROJECT_DIR$/blankgd/images/b01.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/images/author2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/images/5794.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -384,32 +443,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="275">
           <caret line="11" column="21" selection-end-line="46" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blankgd/util/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
+        <state relative-caret-position="725">
           <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/util/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1215" />
+        <state relative-caret-position="550">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blankgd/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/bootstrap-4.0.0-dist/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/banner02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/author2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/mb06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/mb01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/newsbg01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/newsbg04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/mb02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/b06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/banner01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/mb04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/datepng.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/images/mb03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blankgd/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

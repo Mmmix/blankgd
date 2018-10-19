@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bootstrap4</title>
+    <link rel="stylesheet" href="bootstrap-4.0.0-dist/css/bootstrap.css">
+    <script src="bootstrap-4.0.0-dist/js/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="bootstrap-4.0.0-dist/js/bootstrap.js"></script>
+    <link href="dist/summernote-bs4.css" rel="stylesheet">
+    <script src="dist/summernote-bs4.js"></script>
+</head>
+<body>
+
+<div class="container">
+    <div id="summernote" style="margin-left: 100px"></div>
+    <button class="btn" onclick="showContext()">提交</button>
+</div>
+<script>
+    function showContext(){
+        var markupStr = $('#summernote').summernote('code');
+
+        console.log(markupStr);
+        $('#summernote').summernote('destroy');
+    }
+    $(document).ready(function () {
+        $('#summernote').summernote({
+            placeholder: 'Hello bootstrap 4',
+            tabsize: 2,
+            height: 300,
+            minHeight:null,             // set minimum heightof editor
+            maxHeight:null,             // set maximum heightof editor
+            focus: true,                  // set focus to editable areaafter initializing summernote
+            // onImageUpload callback
+            callbacks: {
+                onImageUpload: function(files) {
+                    // upload image to server and create imgNode...
+                    $('#summernote').summernote('insertNode', imgNode);
+                }
+            }
+        });
+        // summernote.image.upload
+        $('#summernote').on('summernote.image.upload', function(we, files) {
+            // upload image to server and create imgNode...
+            $('#summernote').summernote('insertNode', imgNode);
+        });
+    })
+
+
+</script>
+</body>
+</html>
